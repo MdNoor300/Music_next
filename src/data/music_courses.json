@@ -1,0 +1,64 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with our beginner-friendly piano course.",
+        "price": 89.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Take your guitar skills to the next level with advanced techniques and styles.",
+        "price": 120.00,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/advanced-guitar.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamentals of music theory to enhance your musical skills.",
+        "price": 75.00,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Learn the essentials of drumming and rhythm with this beginner's course.",
+        "price": 95.00,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Violin for Beginners",
+        "slug": "violin-for-beginners",
+        "description": "Discover the art of playing the violin with our introductory course.",
+        "price": 110.00,
+        "instructor": "Sarah Lee",
+        "isFeatured": true,
+        "image": "/courses/violin.jpg"
+      }
+    ]
+  }
