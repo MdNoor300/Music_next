@@ -11,7 +11,7 @@ const HeroSection = () => {
     >
       <div className="p-4 relative z-10 w-full text-center">
         <Spotlight
-          className="-top-20 left-0 md:left-[320px] lg:left-[720px] lg:-top-20"
+          className="w-[600px] h-[600px] -top-20 left-0 md:left-[320px] lg:left-[720px] lg:-top-20"
           fill="white"
         />
 
