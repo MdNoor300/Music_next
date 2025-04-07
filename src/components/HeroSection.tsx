@@ -10,10 +10,11 @@ const HeroSection = () => {
     mx-auto py-10 md:py-0"
     >
       <div className="p-4 relative z-10 w-full text-center">
-      <Spotlight
-        className="-top-20 left-0 lg:left-180 lg:-top-20 md:left-80 md:-top-20"
-        fill="white"
-      />
+        <Spotlight
+          className="-top-20 left-0 md:left-[320px] lg:left-[720px] lg:-top-20"
+          fill="white"
+        />
+
         <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
           Master the art of music
         </h1>
@@ -23,14 +24,13 @@ const HeroSection = () => {
           skills, join us to unlock your true potential.
         </p>
         <div className="mt-4 ">
-            
           <Link href={"/courses"}>
-          <Button
-                    borderRadius="1.75rem"
-                    className="bg-white cursor-pointer dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
-                    >
-          Explore Courses
-            </Button>          
+            <Button
+              borderRadius="1.75rem"
+              className="bg-white cursor-pointer dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+            >
+              Explore Courses
+            </Button>
           </Link>
         </div>
       </div>
