@@ -33,9 +33,9 @@ const FeaturedCourses = () => {
                 <div key={course.id} className="flex justify-center">
                   <BackgroundGradient>
                     <div className="p-6">
-                      <p>{course.title}</p>
+                      <p className="font-bold text-black">{course.title}</p>
                       <p>{course.description}</p>
-                      <p>{course.instructor}</p>
+                      <p className="font-bold text-black">{course.instructor}</p>
                     </div>
                   </BackgroundGradient>
                 </div>
