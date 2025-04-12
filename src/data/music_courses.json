@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 89.99,
       "instructor": "Jane Smith",
       "isFeatured": true,
-      "image": "/courses/piano.jpg"
+      "image": "https://images.unsplash.com/photo-1580234758340-dffcf02c47c6"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 120.00,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/advanced-guitar.jpg"
+      "image": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 75.00,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/music-theory.jpg"
+      "image": "https://images.unsplash.com/photo-1601979031925-65947a57c7a7"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 95.00,
       "instructor": "Mike Brown",
       "isFeatured": true,
-      "image": "/courses/drums.jpg"
+      "image": "https://images.unsplash.com/photo-1602016752629-0b2c7c00c022"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 110.00,
       "instructor": "Sarah Lee",
       "isFeatured": true,
-      "image": "/courses/violin.jpg"
+      "image": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 130.00,
       "instructor": "Alex Martinez",
       "isFeatured": true,
-      "image": "/courses/electronic.jpg"
+      "image": "https://images.unsplash.com/photo-1581091870627-3f76b807f127"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 105.00,
       "instructor": "Nina Carter",
       "isFeatured": true,
-      "image": "/courses/jazz.jpg"
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 85.00,
       "instructor": "David Kim",
       "isFeatured": true,
-      "image": "/courses/singing.jpg"
+      "image": "https://images.unsplash.com/photo-1555696958-c069d3d2a6f9"
     }
   ]
 }
