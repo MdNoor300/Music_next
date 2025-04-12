@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
+      "image": "https://img.freepik.com/free-photo/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise_335224-794.jpg?t=st=1744447637~exp=1744451237~hmac=6fc5b5d2c10b156dcc2f048ae931bb47e1aee0cfdbb1ff1c89a0005d17504068&w=740"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 89.99,
       "instructor": "Jane Smith",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1580234758340-dffcf02c47c6"
+      "image": "https://img.freepik.com/premium-photo/tea-plantation-back-overlooking-mount-fuji-with-clear-sky-shizuoka-obuchi-sasaba-japan_51264-491.jpg?uid=R32176361&ga=GA1.1.2028958094.1725276662&semt=ais_hybrid&w=740"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 120.00,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "image": "https://img.freepik.com/free-photo/cherry-blossom-rows-along-meguro-river-tokyo-japan_335224-1396.jpg?t=st=1744447708~exp=1744451308~hmac=a8821714181275e88cbc42577b80123aaef654386dea792a71a02f47c7b5f3ff&w=740"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 75.00,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1601979031925-65947a57c7a7"
+      "image": "https://img.freepik.com/free-photo/boatman-punting-boat-river-arashiyama-autumn-season-along-river-kyoto-japan_335224-22.jpg?t=st=1744447766~exp=1744451366~hmac=03647a8d3d08333cc72df64bd8e7458812a91e749902083b150916fd9140ce49&w=740"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 95.00,
       "instructor": "Mike Brown",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1602016752629-0b2c7c00c022"
+      "image": "https://img.freepik.com/free-photo/pink-tree-nami-island-korea_335224-522.jpg?t=st=1744447877~exp=1744451477~hmac=760977ab608e7d890b90f9aae379060179c5c052796748c33bee17c403cb86c8&w=740"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 110.00,
       "instructor": "Sarah Lee",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "image": "https://img.freepik.com/free-photo/aerial-view-doi-luang-chiang-dao-mountains-sunset-chiang-mai-thailand_335224-1314.jpg?t=st=1744447923~exp=1744451523~hmac=b70145350938ef0c1b327416c6745d70af8c5f114ea0f394afc8a7796f2d6f6a&w=740"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 130.00,
       "instructor": "Alex Martinez",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1581091870627-3f76b807f127"
+      "image": "https://img.freepik.com/premium-photo/beautiful-spring-landscape-with-rising-sun-through-mist_1048944-730743.jpg?w=740"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 105.00,
       "instructor": "Nina Carter",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+      "image": "https://img.freepik.com/free-photo/silhouette-trees-against-dramatic-orange-sky-generated-by-ai_188544-43195.jpg?t=st=1744448016~exp=1744451616~hmac=dc3512c1594ab84978354ceabb781eb89bdcc0e997d0d9adc85b99ce1e6a0f4a&w=740"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 85.00,
       "instructor": "David Kim",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1555696958-c069d3d2a6f9"
+      "image": "https://img.freepik.com/free-photo/blue-mosque-istanbul_1157-8842.jpg?t=st=1744448086~exp=1744451686~hmac=cb2cd0b8d151b43bc0cf7cade94281fa6589446f5762dd34ecc81bda7dce7f12&w=740"
     }
   ]
 }
